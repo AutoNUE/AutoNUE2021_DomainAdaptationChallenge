@@ -2,7 +2,7 @@
 
 This repository contains the datasets for Domain Adaptation challenge for AutoNEU 2021, CVPR Workshop. For more details, please visit https://cvit.iiit.ac.in/autonue2021/challenge.html
 
-Source datasets:-
+# Source datasets:
 For the Cityscapes dataset, participants are requested to use the fine images (around 3200).
 For the other datasets (BDD, GTA and Mapillary), the list of image names are given in the csv files in the folder "Source".
 
@@ -12,7 +12,7 @@ https://www.mapillary.com/
 https://bdd-data.berkeley.edu/ (you might have to click on Advanced tab, and then click on "proceed to bdd-data.berkeley.edu")
 https://download.visinf.tu-darmstadt.de/data/from_games/
 
-Target dataset:
+# Target dataset:
 For the IDD dataset:
 1. Register an account at http://idd.insaan.iiit.ac.in/, with event selected as "AutoNUE Challenge 2019".
 2. Go to Download > Download page in the menu.
