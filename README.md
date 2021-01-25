@@ -1,6 +1,6 @@
 # AutoNEU2021_DomainAdaptation
 
-This repository contains the datasets for Domain Adaptation challenge for AutoNEU 2021, CVPR Workshop. https://cvit.iiit.ac.in/autonue2021/challenge.html
+This repository contains the datasets for Domain Adaptation challenge for AutoNEU 2021, CVPR Workshop. For more details, please visit https://cvit.iiit.ac.in/autonue2021/challenge.html
 
 Source datasets:-
 For the Cityscapes dataset, participants are requested to use the fine images (around 3200).
