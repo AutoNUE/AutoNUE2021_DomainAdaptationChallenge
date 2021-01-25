@@ -21,3 +21,6 @@ For the IDD dataset:
    - The other part is IDD 20k II that was released in 2019.
    
    Extract both the downloaded compressed files in to the same folder.
+
+For the Semi-supervised Domain Adaptation challenge, please use the datasets mentioned in previous section for the source. 
+For the target dataset, we consider two sub-settings, one with 500 samples from IDD training set, and the other with 1000 samples from the same. Please refer to the csv files shared in Folder "Target_SemiSupervised".
