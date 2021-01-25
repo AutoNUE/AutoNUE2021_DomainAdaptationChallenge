@@ -4,7 +4,7 @@ This repository contains the datasets for Domain Adaptation challenge for AutoNE
 
 Source datasets:-
 For the Cityscapes dataset, participants are requested to use the fine images (around 3200).
-For the other datasets (BDD, GTA and Mapillary), the list of image names are given in the csv files in the folder "IDD_DA_Source".
+For the other datasets (BDD, GTA and Mapillary), the list of image names are given in the csv files in the folder "Source".
 
 Target dataset:
-Refer to the folder "IDD_DA_Target" for the target datsets.
+Refer to the folder "Target" for the target datsets.
