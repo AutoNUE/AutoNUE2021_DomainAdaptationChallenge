@@ -14,7 +14,7 @@ https://download.visinf.tu-darmstadt.de/data/from_games/
 
 # Target dataset:
 For the IDD dataset:
-1. Register an account at http://idd.insaan.iiit.ac.in/, with event selected as "AutoNUE Challenge 2019".
+1. Register an account at http://idd.insaan.iiit.ac.in/, with event selected as "AutoNUE Challenge 2021".
 2. Go to Download > Download page in the menu.
 3. Dataset consists of 2 parts which are available for download.
    - First part is the IDD - Segmentation that was released in 2018.
