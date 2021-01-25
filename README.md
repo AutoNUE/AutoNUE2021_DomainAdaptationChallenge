@@ -7,10 +7,10 @@ For the Cityscapes dataset, participants are requested to use the fine images (a
 For the other datasets (BDD, GTA and Mapillary), the list of image names are given in the csv files in the folder "Source".
 
 Participants are requested to download the datasets from original websites, given below for easy reference:-
-https://www.cityscapes-dataset.com/
-https://www.mapillary.com/
-https://bdd-data.berkeley.edu/ (you might have to click on Advanced tab, and then click on "proceed to bdd-data.berkeley.edu")
-https://download.visinf.tu-darmstadt.de/data/from_games/
+1. https://www.cityscapes-dataset.com/
+2. https://www.mapillary.com/
+3. https://bdd-data.berkeley.edu/ (you might have to click on Advanced tab, and then click on "proceed to bdd-data.berkeley.edu")
+4. https://download.visinf.tu-darmstadt.de/data/from_games/
 
 # Target dataset:
 For the IDD dataset:
