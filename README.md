@@ -19,4 +19,5 @@ For the IDD dataset:
 3. Dataset consists of 2 parts which are available for download.
    - First part is the IDD - Segmentation that was released in 2018.
    - The other part is IDD 20k II that was released in 2019.
+   
    Extract both the downloaded compressed files in to the same folder.
